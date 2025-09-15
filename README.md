@@ -1,7 +1,7 @@
 <!-- README.md for Prince Mayank (prncmayank11-cyber) -->
 
 # Hi, I'm Prince Mayank 👋
-**Music producer · Data analyst aspirant ·
+**Data analyst aspirant ·
 
 I'm a music nerd who also builds data projects and dashboards. I enjoy turning messy data into clear stories and making music that moves people. Currently focused on growing as a data analyst, improving Power BI / EDA projects, and landing a role at a larger company.
 
